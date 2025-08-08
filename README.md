@@ -1,140 +1,140 @@
 ```
-cd /storage/emulated/0/pstoto/adamsuwid && clear
+cd /storage/emulated/0/pstoto/adamsuwid && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/Alamsyah && clear
+cd /storage/emulated/0/pstoto/Alamsyah && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/aif && clear
+cd /storage/emulated/0/pstoto/aif && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/Akram && clear
+cd /storage/emulated/0/pstoto/Akram && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/Aldi && clear
+cd /storage/emulated/0/pstoto/Aldi && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/aldo && clear
+cd /storage/emulated/0/pstoto/aldo && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/ameliamel && clear
+cd /storage/emulated/0/pstoto/ameliamel && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/azkaasyam && clear
+cd /storage/emulated/0/pstoto/azkaasyam && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/azkasyamhrmwn && clear
+cd /storage/emulated/0/pstoto/azkasyamhrmwn && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/belachintia && clear
+cd /storage/emulated/0/pstoto/belachintia && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/bocilpencor && clear
+cd /storage/emulated/0/pstoto/bocilpencor && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/bublsgum && clear
+cd /storage/emulated/0/pstoto/bublsgum && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/bungabunga && clear
+cd /storage/emulated/0/pstoto/bungabunga && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/bungakumala && clear
+cd /storage/emulated/0/pstoto/bungakumala && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/cahayahermanto && clear
+cd /storage/emulated/0/pstoto/cahayahermanto && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/chintiaputri && clear
+cd /storage/emulated/0/pstoto/chintiaputri && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/cikasya && clear
+cd /storage/emulated/0/pstoto/cikasya && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/danang && clear
+cd /storage/emulated/0/pstoto/danang && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/darsono && clear
+cd /storage/emulated/0/pstoto/darsono && clear && python antinyasar.py
 ``` 
 ```
-cd /storage/emulated/0/pstoto/EkaHendri && clear
+cd /storage/emulated/0/pstoto/EkaHendri && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/fannyky && clear
+cd /storage/emulated/0/pstoto/fannyky && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/haryani && clear
+cd /storage/emulated/0/pstoto/haryani && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/intanpermata && clear
+cd /storage/emulated/0/pstoto/intanpermata && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/inunnadi && clear
+cd /storage/emulated/0/pstoto/inunnadi && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/iyasbungsu && clear
+cd /storage/emulated/0/pstoto/iyasbungsu && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/Jayawijaya && clear
+cd /storage/emulated/0/pstoto/Jayawijaya && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/lindaprastika && clear
+cd /storage/emulated/0/pstoto/lindaprastika && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/lola && clear
+cd /storage/emulated/0/pstoto/lola && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/lukas && clear
+cd /storage/emulated/0/pstoto/lukas && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/nendri && clear
+cd /storage/emulated/0/pstoto/nendri && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/nengmae && clear
+cd /storage/emulated/0/pstoto/nengmae && clear && python antinyasar.py
+``` 
+```
+cd /storage/emulated/0/pstoto/nurFadhilah && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/nurFadhilah && clear
+cd /storage/emulated/0/pstoto/primatasya && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/primatasya && clear
+cd /storage/emulated/0/pstoto/prisilia && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/prisilia && clear
+cd /storage/emulated/0/pstoto/riskaamel && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/riskaamel && clear
+cd /storage/emulated/0/pstoto/rista && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/rista && clear
+cd /storage/emulated/0/pstoto/rizkisyaputra && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/rizkisyaputra && clear
+cd /storage/emulated/0/pstoto/rohmanasbi && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/rohmanasbi && clear
+cd /storage/emulated/0/pstoto/sitirosalinda && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/sitirosalinda && clear
+cd /storage/emulated/0/pstoto/Sulistiani && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/Sulistiani && clear
+cd /storage/emulated/0/pstoto/sutanto && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/sutanto && clear
+cd /storage/emulated/0/pstoto/vanesa && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/vanesa && clear
+cd /storage/emulated/0/pstoto/nabilaljp && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/nabilaljp && clear
+cd /storage/emulated/0/pstoto/santy && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/santy && clear
+cd /storage/emulated/0/pstoto/onicha && clear && python antinyasar.py
 ```
 ```
-cd /storage/emulated/0/pstoto/onicha && clear
-```
-```
-cd /storage/emulated/0/pstoto/dianlestari && clear
+cd /storage/emulated/0/pstoto/dianlestari && clear && python antinyasar.py
 ```
 ```
 u
