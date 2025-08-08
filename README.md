@@ -1,75 +1,375 @@
 ```
-#MAMIGENIT*CHINTIA*987*986*985#
+cd /storage/emulated/0/pstoto/adamsuwid && clear
 ```
 ```
-#MAMIGENIT*ANABEL*984*983*982#
+cd /storage/emulated/0/pstoto/Alamsyah && clear
 ```
 ```
-#MAMIGENIT*JOKOBODO68*981*978*976#
+cd /storage/emulated/0/pstoto/aif && clear
 ```
 ```
-#MAMIGENIT*JOKOPONTER68*975*974*973#
+cd /storage/emulated/0/pstoto/Akram && clear
 ```
 ```
-#MAMIGENIT*GENDOWOR*972*971*968#
+cd /storage/emulated/0/pstoto/Aldi && clear
 ```
 ```
-#MAMIGENIT*ADDELLIA*967*965*964#
+cd /storage/emulated/0/pstoto/aldo && clear
 ```
 ```
-#ABANGSLOT*CHINTIA*963*962*961#
+cd /storage/emulated/0/pstoto/ameliamel && clear
 ```
 ```
-#ABANGSLOT*ANDIKAPRA*958*957*956#
+cd /storage/emulated/0/pstoto/azkaasyam && clear
 ```
 ```
-#ABANGSLOT*PACARMELISA*954*953*952#
+cd /storage/emulated/0/pstoto/azkasyamhrmwn && clear
 ```
 ```
-#ABANGSLOT*GENDOWOR*951*948*947#
+cd /storage/emulated/0/pstoto/belachintia && clear
 ```
 ```
-#ABANGSLOT*NUERISKA*946*945*943#
+cd /storage/emulated/0/pstoto/bocilpencor && clear
 ```
 ```
-#ABANGSLOT*CHINTIAA*942*941*938#
+cd /storage/emulated/0/pstoto/bublsgum && clear
 ```
 ```
-#AMOISLOT*PACARMELISA*937*936*935#
+cd /storage/emulated/0/pstoto/bungabunga && clear
 ```
 ```
-#AMOISLOT*AZKA553*934*932*931#
+cd /storage/emulated/0/pstoto/bungakumala && clear
 ```
 ```
-#AMOISLOT*HENDRRA*928*927*926#
+cd /storage/emulated/0/pstoto/cahayahermanto && clear
 ```
 ```
-#AMOISLOT*SUBADRUS*925*924*923#
+cd /storage/emulated/0/pstoto/chintiaputri && clear
 ```
 ```
-#AMOISLOT*CHIINTIA*921*918*917#
+cd /storage/emulated/0/pstoto/cikasya && clear
 ```
 ```
-#AMOISLOT*JONINUR*916*915*914#
+cd /storage/emulated/0/pstoto/danang && clear
 ```
 ```
-#AMOISLOT*GENDOWOR*913*912*897#
+cd /storage/emulated/0/pstoto/darsono && clear
+``` 
+```
+cd /storage/emulated/0/pstoto/EkaHendri && clear
 ```
 ```
-#POINSLOT*INDRIGEMOT*896*895*894#
+cd /storage/emulated/0/pstoto/fannyky && clear
 ```
 ```
-#POINSLOT*JOKOKENDIL68*893*892*891#
+cd /storage/emulated/0/pstoto/haryani && clear
 ```
 ```
-#POINSLOT*SUBADRUS*879*876*875#
+cd /storage/emulated/0/pstoto/intanpermata && clear
 ```
 ```
-#POINSLOT*JOKOBODO68*874*873*872#
+cd /storage/emulated/0/pstoto/inunnadi && clear
 ```
 ```
-#POINSLOT*AISYAH*871*869*867#
+cd /storage/emulated/0/pstoto/iyasbungsu && clear
 ```
 ```
-#POINSLOT*RIESSKA*865*864*863#
+cd /storage/emulated/0/pstoto/Jayawijaya && clear
+```
+```
+cd /storage/emulated/0/pstoto/lindaprastika && clear
+```
+```
+cd /storage/emulated/0/pstoto/lola && clear
+```
+```
+cd /storage/emulated/0/pstoto/lukas && clear
+```
+```
+cd /storage/emulated/0/pstoto/nendri && clear
+```
+```
+cd /storage/emulated/0/pstoto/nengmae && clear
+```
+```
+cd /storage/emulated/0/pstoto/nurFadhilah && clear
+```
+```
+cd /storage/emulated/0/pstoto/primatasya && clear
+```
+```
+cd /storage/emulated/0/pstoto/prisilia && clear
+```
+```
+cd /storage/emulated/0/pstoto/riskaamel && clear
+```
+```
+cd /storage/emulated/0/pstoto/rista && clear
+```
+```
+cd /storage/emulated/0/pstoto/rizkisyaputra && clear
+```
+```
+cd /storage/emulated/0/pstoto/rohmanasbi && clear
+```
+```
+cd /storage/emulated/0/pstoto/sitirosalinda && clear
+```
+```
+cd /storage/emulated/0/pstoto/Sulistiani && clear
+```
+```
+cd /storage/emulated/0/pstoto/sutanto && clear
+```
+```
+cd /storage/emulated/0/pstoto/vanesa && clear
+```
+```
+cd /storage/emulated/0/pstoto/nabilaljp && clear
+```
+```
+cd /storage/emulated/0/pstoto/santy && clear
+```
+```
+cd /storage/emulated/0/pstoto/onicha && clear
+```
+```
+cd /storage/emulated/0/pstoto/dianlestari && clear
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
+```
+```
+u
 ```
