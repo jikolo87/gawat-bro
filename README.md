@@ -1,4 +1,7 @@
 ```
+cd /storage/emulated/0/pstoto/gufy && clear && python antinyasar.py
+```
+```
 cd /storage/emulated/0/pstoto/cikah && clear && python antinyasar.py
 ```
 ```
