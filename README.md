@@ -1,5 +1,5 @@
 ```
-cd /storage/emulated/0/pstoto/nurulnovita && clear && python antinyasar.py
+cd /storage/emulated/0/pstoto/nurulnofita && clear && python antinyasar.py
 ```
 ```
 cd /storage/emulated/0/pstoto/gufy && clear && python antinyasar.py
